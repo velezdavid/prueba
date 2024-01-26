@@ -1,0 +1,47 @@
+.p-datatable.p-datatable-gridlines .p-datatable-header {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.p-datatable.p-datatable-gridlines .p-paginator-bottom {
+    border-radius: 0px 0px 20px 20px;
+    border-width: 0px
+}
+
+.p-datatable .p-paginator-bottom {
+    border-width: 0;
+    border-radius: 0;
+}
+
+.p-datatable .p-datatable-header {
+    border: 0px !important;
+    background: #ffff;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.p-datatable .p-datatable-thead>tr>th {
+
+    border: 0px solid #e6e8e98f !important;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.p-datatable .p-datatable-tbody>tr>td {
+    border: 0px solid #e6e8e98f !important;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.p-datatable .p-column-header-content {
+    justify-content: center
+}
+
+#b-add {
+
+    /* background-color: transparent; */
+    color: #ffffff;
+    background: #27a23d;
+    /* border: 1px solid; */
+}
+
+/* .p-datatable .p-datatable-tbody > tr */
